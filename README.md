@@ -1,6 +1,6 @@
 # flutterinterntasks
 
-A new Flutter project.
+Both tasks are in the same app.
 
 ## Getting Started
 
